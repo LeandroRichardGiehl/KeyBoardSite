@@ -1,11 +1,15 @@
 #menu {
     text-align: center;
     background-color: rgb(230, 219, 219);
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 #logo {
     text-align: center;
     background-color: white;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 #button1 {
@@ -26,13 +30,17 @@
     border-color: aliceblue;
 }
 
-body {
+.body {
+    
     background-image: url("https://wallup.net/wp-content/uploads/2017/11/23/444620-mechanical_keyboard-keyboards.jpg");
+    border-color: black;
 }
 
 #galeria {
     text-align: center;
     margin-top: 9%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 #galeria2 {
@@ -40,6 +48,8 @@ body {
     display: flex;
     text-align: center;
     margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 #galeria3{
@@ -47,6 +57,8 @@ body {
     display: flex;
     text-align: center;
     margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 #galeria4 {
@@ -54,46 +66,51 @@ body {
     display: flex;
     text-align: center;
     margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 
 #tecladoMecanico {
     border-radius: 30%;
-    width: 350px;
+    width: 380px;
     height: 250px;
 }
 
 #tecladoMecanico2{
-    width: 350px;
-    height: 250px;
+    width: 300px;
+    height: 200px;
+
 }
 
 #tecladoEscritorio {
     border-radius: 30%;
-    width: 350px;
+    width: 390px;
     height: 250px;
 }
 
 #tecladoEscritorio2 {
     display: flex;
-    width: 350px;
-    height: 250px;
+    width: 300px;
+    height: 240px;
 }
 
 #tecladoMini {
     border-radius: 30%;
-    width: 350px;
+    width: 390px;
     height: 250px;
 }
 
 #tecladoMini2 {
-    width: 710px;
+    width: 590px;
     height: 250px;
 }
 
 #logo2 {
     text-align: center;
     background-color: #ffffff;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 body {
@@ -102,6 +119,8 @@ body {
 
 #buttonHomePage {
     background-color: rgb(230, 219, 219);
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 #buttonHome{
@@ -109,6 +128,7 @@ body {
     border: 8cap;
     border-radius: 10%;
     border-color: #ffffff;
+
 }
 
 #texto{
