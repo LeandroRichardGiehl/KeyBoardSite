@@ -39,6 +39,9 @@ function register() {
     if (name.trim() === '' || email.trim() === '' || senha.trim() === '') {
         alert('Por favor, preencha todos os dados cadastrais.');
         return;
+    }   
+    else if(senha.length < 8){
+        alert(`Senha tem que ser maior que 8 digitos.`);
     }else{
         document.getElementById('result').innerHTML = 'Cadastro feito com sucesso';
     }
